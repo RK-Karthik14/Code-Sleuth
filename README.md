@@ -10,6 +10,23 @@
 
 
 ## Screenshot
+![logowithnamewhite](https://github.com/user-attachments/assets/fbd0198b-002a-4bfa-a77c-e770dfe9a179)
+
+![Screenshot_20240914_100659](https://github.com/user-attachments/assets/42432935-74ef-4fb5-b21c-532006af7081)
+
+![Screenshot_20240914_100836_Permission controller](https://github.com/user-attachments/assets/e9b49434-7a52-492d-8e00-c6ea034ebf6b)
+
+![Screenshot_20240914_100844](https://github.com/user-attachments/assets/877ef30b-7324-4079-aaed-ca2ebfafab2b)
+
+![Screenshot_20240914_100853](https://github.com/user-attachments/assets/0633cddc-2fcb-4e5a-b088-64cb862d623b)
+
+![Screenshot_20240914_100709](https://github.com/user-attachments/assets/971c583a-f573-41ed-830e-2a54034797ec)
+
+![Screenshot_20240914_100717](https://github.com/user-attachments/assets/845c62fd-3fee-4943-acaf-5c6f6361bd34)
+
+![Screenshot_20240914_100732](https://github.com/user-attachments/assets/f55488cc-8db2-416e-a32c-95c3ecfa5f0d)
+
+![Screenshot_20240914_100749](https://github.com/user-attachments/assets/11dea019-ccc1-4af3-98a0-cc99b41c3427)
 
 
 ## Installation
