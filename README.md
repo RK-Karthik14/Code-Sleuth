@@ -11,6 +11,8 @@
 
 ## Screenshots
 
+![App Screenshot](A:/Self/Projects/CodeSleuth Project/codesleuth/assets/images/logowithnamewhite.png)
+
 
 ## Installation
 1. Clone the repository
@@ -43,4 +45,4 @@
 + **API Integration**: Data from coding platforms is fetched using their respective APIs.
 
 ## Contact 
-For any inquiries or feedback or apk, feel free to reach out at [karthik1404m@gmail.com].
+For any inquiries or feedback or apk, feel free to reach out at **karthik1404m@gmail.com**.
