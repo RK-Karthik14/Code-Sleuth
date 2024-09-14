@@ -1,5 +1,5 @@
 # Code Sleuth
-**CodeSleuth** is a Flutter-based application designed to track user performance across popular coding platforms like **CodeChef**, **LeetCode**, and **Codeforces**. The app provides users with a unified interface to view their progress, challenges, and achievements from these platforms in one place.
+**CodeSleuth** is a Flutter-based application designed to track user performance across popular coding platforms like **CodeChef**, **LeetCode**, and **Codeforces**. The app provides users with a unified interface to view their progress, challenges, and achievements from these platforms in one place. The application is enabled with both dark and light modes of better UX.
 
 ## Features
 + **CodeChef Integration**: Track your ranking, contest performance, and problem-solving history on CodeChef.
