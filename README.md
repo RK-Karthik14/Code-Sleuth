@@ -9,9 +9,7 @@
 + **Real-Time Data**: Sync your data in real-time to always have the most up-to-date performance information.
 
 
-## Screenshots
-
-![plot](A:/Self/Projects/CodeSleuth Project/codesleuth/assets/images/logowithnamewhite.png)
+## Screenshot
 
 
 ## Installation
