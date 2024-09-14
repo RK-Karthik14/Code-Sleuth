@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-![App Screenshot](A:/Self/Projects/CodeSleuth Project/codesleuth/assets/images/logowithnamewhite.png)
+![plot](A:/Self/Projects/CodeSleuth Project/codesleuth/assets/images/logowithnamewhite.png)
 
 
 ## Installation
