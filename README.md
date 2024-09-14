@@ -9,7 +9,7 @@
 + **Real-Time Data**: Sync your data in real-time to always have the most up-to-date performance information.
 
 
-## Screenshot
+## Screenshots
 ![logowithnamewhite](https://github.com/user-attachments/assets/fbd0198b-002a-4bfa-a77c-e770dfe9a179)
 
 ![Screenshot_20240914_100659](https://github.com/user-attachments/assets/42432935-74ef-4fb5-b21c-532006af7081)
